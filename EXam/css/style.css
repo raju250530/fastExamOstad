@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+.logo{
+    font-family: "Dancing Script", cursive;
+    color: chartreuse;
+    font-weight: 700;
+    font-size: 25px;
+}
+div>ul>li>a{
+    color: white !important;
+    font-size: 20px !important;
+    padding: 0px 20px !important;
+
+}
+form>span{
+    align-items: center;
+    font-size: 25px;
+    font-weight: bold;
+
+}
